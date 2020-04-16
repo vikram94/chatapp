@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84854933008",
+    "firebase_url": "https://udemy-flash-chat-7a212.firebaseio.com",
+    "project_id": "udemy-flash-chat-7a212",
+    "storage_bucket": "udemy-flash-chat-7a212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84854933008:android:1b5db868423f825e8aec95",
+        "android_client_info": {
+          "package_name": "com.harshalkhandait.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84854933008-2be56imdemqrjf1gnliatoijadu31i27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsjvrNctij5gq4osKthSQHb57ybhCejA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84854933008-2be56imdemqrjf1gnliatoijadu31i27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
